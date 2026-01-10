@@ -22,6 +22,4 @@ The purpose of this repository is to practice basic machine learning concepts an
    python filename.py
 4. Modify and experiment with the code to understand the logic.
 
-## Notes
-This repository is created for learning purposes as part of an internship and will be updated as more tasks are completed.
 
